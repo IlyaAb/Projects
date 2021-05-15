@@ -9,4 +9,4 @@
 *  Моделирование
 *  Оценка качества модели
 
-Tech stack: 
+Tech stack: pandas, seaborn, matplotlib, numpy, sklearn, linear models, ensemle models
