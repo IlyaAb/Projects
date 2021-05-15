@@ -1,4 +1,4 @@
-## Climate Analys WordBankData <h1>
+## Climate Analys WorldBankData <h1>
 
 >Источник: https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
 
