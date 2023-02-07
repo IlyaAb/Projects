@@ -7,7 +7,8 @@
 2. Сверточная 
 3. VAE полносвязная 
 
-Tech stack: torch, pandas, numpy 
+Технический стэк: torch, pandas, numpy 
+Ссылка на данные: https://www.researchgate.net/publication/327979567_Dataset_Rare_Event_Classification_in_Multivariate_Time_Series
 
 #
 #
@@ -22,3 +23,4 @@ Used architectures:
 3. VAE with fully connected
 
 Tech stack: torch, pandas, numpy
+Data link: https://www.researchgate.net/publication/327979567_Dataset_Rare_Event_Classification_in_Multivariate_Time_Series
